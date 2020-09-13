@@ -4,7 +4,7 @@ Practice project in using bootstrap and flex css to create a sample portfolio. P
 
 ### Author: Bisraddesign (Brad Thompson)
 
-![](expl_portfolio.png)
+![](expl_portffolio.png)
 
 ## Installation
 
